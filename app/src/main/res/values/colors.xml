@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#f9fbe7</color>
+    <color name="actionbar">#cddc39</color>
+    <color name="actionbar_text">#AA00FF</color>
+    <color name="searchActivity_intentPassedText">#827717</color>
+</resources>

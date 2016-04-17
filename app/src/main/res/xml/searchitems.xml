@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<All-Products>
+    <footwear>
+        <woodland>
+            <partywear>Party wear</partywear>
+            <casualwear>Casual Wear</casualwear>
+        </woodland>
+        <nike>
+            <partywear>Party Wear</partywear>
+            <casualwear>Casual Wear</casualwear>
+        </nike>
+        <adidas>
+            <partywear>Party Wear</partywear>
+            <casualwear>Casual Wear</casualwear>
+        </adidas>
+        <reebok>
+            <partywear>Party Wear</partywear>
+            <casualwear>Casual Wear</casualwear>
+        </reebok>
+        <redchief>
+            <partywear>Party Wear</partywear>
+            <casualwear>Casual Wear</casualwear>
+        </redchief>
+    </footwear>
+</All-Products>
+        
+
+          

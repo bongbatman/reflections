@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">SerPare</string>
+    <string name="sample_data">Create</string>
+    <string name="delete_data">Delete</string>
+    <string name="title_activity_search_activity">Searched!</string>
+    <string name="all_deleted">All Notes Deleted</string>
+    <string name="are_you_sure">Are you Sure?</string>
+    <string-array name="completion_hints">
+        <item>Television</item>
+        <item>HTC</item>
+        <item>Surf Excel</item>
+        <item>Watch</item>
+        <item>Cell phone</item>
+    </string-array>
+    <string name="title_activity_editor">EditorActivity</string>
+
+
+    <string name="action_settings">Settings</string>
+    <string name="new_note">New Note</string>
+    <string name="updateMessage">Note Updated</string>
+    <string name="noteDeleted">Note Deleted</string>
+    <string name="enter_note_here">Enter Note Here</string>
+</resources>
